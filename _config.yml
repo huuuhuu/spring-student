@@ -14,3 +14,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 It’s basically just a few tuning of Github Page
+
+theme: jekyll-theme-slate
